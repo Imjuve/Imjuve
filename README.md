@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning React & Next
 - 📫 How to reach me: https://samirbeslija.fr
 
-Visitors counter:
-
-![Visitor Count](https://profile-counter.glitch.me/Imjuve/count.svg)
+[![](https://visitcount.itsvg.in/api?id=Imjuve&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 
 <!---
