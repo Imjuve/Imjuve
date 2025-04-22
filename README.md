@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Imjuve
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning React & Next
-- 📫 How to reach me: https://samirbeslija.fr
+- 📫 How to reach me: https://samirbeslija.com
 
 [![](https://visitcount.itsvg.in/api?id=Imjuve&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
